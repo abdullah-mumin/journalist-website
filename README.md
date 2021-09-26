@@ -1,8 +1,16 @@
 # Getting Started with Journalist Website
 
-This project  https://journalist-526.netlify.app/.
+The website : https://journalist-526.netlify.app/.
 
 ## Available Scripts
+
+### `This is about Journalist details website`
+### `This website help you to know who are the world's top best journalists.`
+### `You can know about world's top best journalists and their birth place and age also.`
+.
+.
+.
+.
 
 In the project directory, you can run:
 
