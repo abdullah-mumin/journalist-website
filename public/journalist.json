@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Mike Allen",
+    "work-place": "Time",
+    "birth-place": "United-States",
+    "age": 57,
+    "img": "https://www.leadingauthorities.com/sites/default/files/styles/600x400/public/images/allen-mike-axios.original.jpg",
+    "occupation": {
+      "1": "writer",
+      "2": "journalist"
+    }
+  },
+  {
+    "name": "Dan Balz",
+    "work-place": "Washington Post",
+    "birth-place": "Freeport",
+    "age": 75,
+    "img": "https://s.abcnews.com/images/ThisWeek/170129_tw_round_1049_16x9_992.jpg",
+    "occupation": {
+      "1": "journalist"
+    }
+  },
+  {
+    "name": "Wolf Blitzer",
+    "work-place": "CNN",
+    "birth-place": "Germany",
+    "age": 73,
+    "img": "https://i.insider.com/5bd3cff45b658c4ae51d6913?width=1136&format=jpeg",
+    "occupation": {
+      "1": "journalist"
+    }
+  },
+  {
+    "name": "Gloria Borger",
+    "work-place": "CNN",
+    "birth-place": "New York",
+    "age": 68,
+    "img": "https://www.tvovermind.com/wp-content/uploads/2020/06/Gloria-Borger.jpg",
+    "occupation": {
+      "1": "journalist",
+      "2": "Analyst"
+    }
+  },
+  {
+    "name": "David Broder",
+    "work-place": "Washington Post",
+    "birth-place": "Chicago Heights",
+    "age": 81,
+    "img": "https://cbsnews1.cbsistatic.com/hub/i/2011/03/09/ef00a376-a642-11e2-a3f0-029118418759/david-broder-82240839.jpg",
+    "occupation": {
+      "1": "journalist",
+      "2": "lecturer"
+    }
+  },
+  {
+    "name": "David Brooks",
+    "work-place": "New York Times",
+    "birth-place": "Canada",
+    "age": 60,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/David_Brooks_-_National_Book_Festival_2019_%28cropped%29.jpg",
+    "occupation": {
+      "1": "columnist",
+      "2": "pundit"
+    }
+  },
+  {
+    "name": "Ron Brownstein",
+    "work-place": "Los Angeles Times",
+    "birth-place": "New York",
+    "age": 63,
+    "img": "https://www.zocalopublicsquare.org/wp-content/uploads/2020/10/Ron-Brownstein-s.jpg",
+    "occupation": {
+      "1": "journalist",
+      "2": "Analyst"
+    }
+  },
+  {
+    "name": "Steve Coll",
+    "work-place": "Washington Post",
+    "birth-place": "Washington",
+    "age": 62,
+    "img": "https://images.axios.com/iHBWcpWg8bOJkg1MX2vecWenhIs=/0x32:3808x2174/1920x1080/2021/08/26/1629975011806.jpg",
+    "occupation": {
+      "1": "journalist",
+      "2": "Author"
+    }
+  },
+  {
+    "name": "Maureen Dowd",
+    "work-place": "New York Times",
+    "birth-place": "Washington",
+    "age": 69,
+    "img": "https://www.nydailynews.com/resizer/sWNk3VeB12td3L4jl3jjWKlX02k=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/GLONQMWJRNFFTIBN32GXLQUVGA.jpg",
+    "occupation": {
+      "1": "journalist",
+      "2": "Columnist"
+    }
+  },
+  {
+    "name": "Howard Fineman",
+    "work-place": "Newsweek",
+    "birth-place": "Pittsburgh",
+    "age": 72,
+    "img": "https://charlie-p-2ac84d7056ca7f9d.s3.amazonaws.com/clips/thumbnails/000/012/154/player/1HY7ND6_079_lt.jpg?1456811832",
+    "occupation": {
+      "1": "journalist",
+      "2": "Editor"
+    }
+  },
+  {
+    "name": "Marc Fisher",
+    "work-place": "Washington Post",
+    "birth-place": "England",
+    "age": 48,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MARCFISHER002.jpg/1200px-MARCFISHER002.jpg",
+    "occupation": {
+      "1": "journalist"
+    }
+  },
+  {
+    "name": "David Gregory",
+    "work-place": "Newsweek",
+    "birth-place": "California",
+    "age": 51,
+    "img": "https://pyxis.nymag.com/v1/imgs/3d0/16b/625aa88745bd9e82ee9e71598a387c79b1-8-gregory.2x.rhorizontal.w710.jpg",
+    "occupation": {
+      "1": "journalist",
+      "2": "Television host"
+    }
+  },
+  {
+    "name": "Seymour Hersh",
+    "work-place": "New Yorker",
+    "birth-place": "United States",
+    "age": 84,
+    "img": "https://insidestory.org.au/wp-content/uploads/hersh.jpg",
+    "occupation": {
+      "1": "journalist",
+      "2": "writer"
+    }
+  },
+  {
+    "name": "Brit Hume",
+    "work-place": "Fox",
+    "birth-place": "Washington",
+    "age": 78,
+    "img": "https://deadline.com/wp-content/uploads/2020/09/BritHume.jpg?w=931",
+    "occupation": {
+      "1": "journalist",
+      "2": "political commentator"
+    }
+  },
+  {
+    "name": "Michael Isikoff",
+    "work-place": "Newsweek",
+    "birth-place": "New York",
+    "age": 70,
+    "img": "https://charlie-p-2ac84d7056ca7f9d.s3.amazonaws.com/clips/thumbnails/000/004/899/player/1HY0351_001_lt.jpg?1456527581",
+    "occupation": {
+      "1": "journalist",
+      "2": "Investigative journalist"
+    }
+  },
+  {
+    "name": "Mark Knoller",
+    "work-place": "CBS",
+    "birth-place": "New York",
+    "age": 67,
+    "img": "https://www.washingtonian.com/wp-content/uploads/2013/01/2013-1-7-SVoss-MarkKnoller.jpg",
+    "occupation": {
+      "1": "journalist"
+    }
+  },
+  {
+    "name": "Jim Lehrer",
+    "work-place": "PBS",
+    "birth-place": "Washington",
+    "age": 85,
+    "img": "https://nypost.com/wp-content/uploads/sites/2/2020/01/jim-lehrer-pbs-1a.jpg?quality=80&strip=all",
+    "occupation": {
+      "1": "journalist",
+      "2": "Author"
+    }
+  },
+  {
+    "name": "David Martin",
+    "work-place": "CBS",
+    "birth-place": "Washington",
+    "age": 77,
+    "img": "https://www.m-cam.com/wp-content/uploads/2019/03/HeadShot_David-Martin-2017-2023x2023.jpg",
+    "occupation": {
+      "1": "journalist",
+      "2": "Correspondent"
+    }
+  },
+  {
+    "name": "Dana Milbank",
+    "work-place": "Washington Post",
+    "birth-place": "New York",
+    "age": 53,
+    "img": "https://pcdn.columbian.com/wp-content/uploads/2015/08/Milbank_Dana_color18.jpg",
+    "occupation": {
+      "1": "journalist"
+    }
+  },
+  {
+    "name": "Terry Moran",
+    "work-place": "ABC",
+    "birth-place": "Chicago",
+    "age": 50,
+    "img": "https://www.leadingauthorities.com/sites/default/files/styles/650x430/public/images/moran-terry-speaker.original.jpg",
+    "occupation": {
+      "1": "journalist"
+    }
+  }
+]
