@@ -1,0 +1,23 @@
+.journalist-container{
+    background-color: aquamarine;
+    border-radius: 20px;
+    margin: 25px;
+} 
+.journalist img{
+    width: 300px;
+    height: 220px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.btn-journalist{
+    margin: 10px;
+    padding: 10px;
+    background-color: cadetblue;
+    border: 1px solid gray;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.btn-add{
+    margin-left: 5px;
+}

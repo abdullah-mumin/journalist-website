@@ -1,14 +1,15 @@
 
 import './App.css';
-import AddedJournalist from './components/Added-Journalist/AddedJournalist';
 import Header from './components/Header/Header';
 import JournalistDetails from './components/Journalilst-Details/JournalistDetails';
 
 function App() {
   return (
     <div className="App">
+      {/* header area */}
      <Header></Header>
-     <AddedJournalist></AddedJournalist>
+     
+     {/* Journalist Details area */}
      <JournalistDetails></JournalistDetails>
     </div>
   );
