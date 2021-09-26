@@ -6,7 +6,7 @@ The website : https://journalist-526.netlify.app/.
 
 ### `This is about Journalist details website`
 ### `This website help you to know who are the world's top best journalists.`
-### `You can know about world's top best journalists and their birth place and age also.`
+### `You can know about them and their birth place, age and current work place also.`
 .
 .
 .
