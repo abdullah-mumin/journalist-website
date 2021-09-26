@@ -1,0 +1,10 @@
+.header{
+    background-color: lightgray;
+    margin-top: -22px;
+    padding: 10px;
+    border-radius: 20px 20px;
+}
+.budget{
+    font-size: 20px;
+    font-weight: bold;
+}

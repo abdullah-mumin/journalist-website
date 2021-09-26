@@ -1,0 +1,7 @@
+.added-journalist{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    background-color: lightblue;
+    margin-top: 20px;
+    border-radius: 20px;
+}

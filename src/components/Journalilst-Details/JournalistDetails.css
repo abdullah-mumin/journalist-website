@@ -1,0 +1,4 @@
+.journalist{
+    display: grid;
+    grid-template-columns: repeat(3fr);
+}
